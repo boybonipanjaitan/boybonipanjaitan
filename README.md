@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boybonipanjaitan
-- 👀 I’m interested in Javascript, PHP and Phyton
+- 👀 I’m interested in Javascript, PHP and Python
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI Learning
 
